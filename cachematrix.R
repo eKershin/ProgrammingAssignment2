@@ -1,5 +1,5 @@
 
-## This function will provide a list of function to put the inverse matrix (solve(x)) in cache
+## This function will provide a list of functions to put the inverse matrix (solve(x)) in cache
 
 makeCacheMatrix <- function(x = matrix()) {
 
